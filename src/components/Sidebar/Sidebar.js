@@ -14,9 +14,12 @@ function Sidebar() {
       <div className="sidebar__top">
         <img
           src="https://media-exp1.licdn.com/dms/image/C4D16AQGzUAltU65ufQ/profile-displaybackgroundimage-shrink_350_1400/0/1612440065385?e=1631145600&v=beta&t=cUW4xJaQkjQaL_tClhvvsLEgI6ivuHnflYmn_typc2E"
-          alt="Cover Image"
+          alt="Cover "
         />
-        <Avatar className="sidebar__avatar" />
+        <Avatar
+          className="sidebar__avatar"
+          src="https://media-exp1.licdn.com/dms/image/C4D03AQGZ0UXshtyd5Q/profile-displayphoto-shrink_100_100/0/1615454969445?e=1631145600&v=beta&t=yBqlJnYKulQGvZO1gW6JESzEqaCdu17oLzt3M7oj8ao"
+        />
         <h2>Konstantin Taylor</h2>
         <h4>Konstantintaylor@gmail.com</h4>
       </div>
